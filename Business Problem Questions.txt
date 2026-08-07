@@ -1,0 +1,33 @@
+-- Data Analysis & Business Problems
+
+-- Q1. Retrieve all sales transactions made on November 5, 2022.
+
+-- Q2. Retrieve all transactions where the product category is 'Clothing',
+--     the quantity sold is greater than 10, and the sale occurred in
+--     November 2022.
+
+-- Q3. Calculate the total sales (total_sale) for each product category.
+
+-- Q4. Find the average age of customers who purchased products from
+--     the 'Beauty' category.
+
+-- Q5. Retrieve all transactions where the total sale amount is greater
+--     than 1,000.
+
+-- Q6. Find the total number of transactions made by each gender within
+--     each product category.
+
+-- Q7. Calculate the average sale amount for each month and identify
+--     the best-selling month in each year.
+
+-- Q8. Find the top 5 customers based on the highest total sales amount.
+
+-- Q9. Find the number of unique customers who purchased products from
+--     each category.
+
+-- Q10. Categorize each transaction into a time shift based on the sale time
+--      and calculate the total number of orders in each shift.
+--
+--      Morning   : Before 12:00 PM
+--      Afternoon : Between 12:00 PM and 5:00 PM
+--      Evening   : After 5:00 PM
