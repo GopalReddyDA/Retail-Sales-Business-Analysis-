@@ -1,4 +1,5 @@
 # Retail Sales Analysis using SQL
+[!Retail Sales Logo](https://github.com/GopalReddyDA/Retail-Sales-Business-Analysis-/blob/main/Logo.png)
 
 ## Project Overview
 
